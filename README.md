@@ -1,4 +1,4 @@
-my name is rodion and i`m 15 years old russian student.
+my name is Rodion and i`m 15 years old russian student.
 
 <!---
 rodion262006/rodion262006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
